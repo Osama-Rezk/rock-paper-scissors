@@ -1,0 +1,8 @@
+.option-container {
+  color: rgb(0, 45, 128);
+  border-radius: 20px;
+  background: #fff;
+  border: 2px solid rgb(0, 45, 128);
+  box-shadow: 5px 2px 3px rgb(0, 45, 128);
+  font-size: 13px;
+}

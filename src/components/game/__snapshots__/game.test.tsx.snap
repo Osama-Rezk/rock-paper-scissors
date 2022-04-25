@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Game  Component User Can Player And Reset Game 1`] = `
+<div
+  class="round-result"
+  data-testid="round-result"
+>
+  <h2>
+    You Win
+  </h2>
+</div>
+`;

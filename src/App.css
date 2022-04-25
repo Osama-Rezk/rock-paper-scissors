@@ -1,0 +1,13 @@
+.app-container {
+  text-align: center;
+}
+
+.option {
+  cursor: pointer;
+}
+
+.choices-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
